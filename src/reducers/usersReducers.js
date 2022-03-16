@@ -1,7 +1,7 @@
 const initialState = {
   users: [
-    { name: "kelvin", email: "Kelvin@email.com", gen: 20 },
-    { name: "Henry", email: "Henry@email.com", gen: 20 },
+    // { name: "kelvin", email: "Kelvin@email.com", gen: 20 },
+    // { name: "Henry", email: "Henry@email.com", gen: 20 },
     { name: "Jamil", email: "Jamil@email.com", gen: 20 },
   ],
 
